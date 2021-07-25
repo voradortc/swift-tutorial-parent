@@ -87,7 +87,7 @@
 		3F02839F26ADE5CB0014E8D6 /* swift */ = {
 			isa = PBXGroup;
 			children = (
-				3F0283A326ADE9E50014E8D6 /* dependencies */,
+				3F0283A326ADE9E50014E8D6 /* dependency-management */,
 				D2A712D324BE4B4C00290DA9 /* main.swift */,
 				D21E105524FD283700706314 /* advanced-operators */,
 				D2F5B2E824BE4C3600408905 /* basic-operators */,
@@ -110,12 +110,12 @@
 			path = swift;
 			sourceTree = "<group>";
 		};
-		3F0283A326ADE9E50014E8D6 /* dependencies */ = {
+		3F0283A326ADE9E50014E8D6 /* dependency-management */ = {
 			isa = PBXGroup;
 			children = (
 				3F0283A426ADEA250014E8D6 /* dependencies.swift */,
 			);
-			path = dependencies;
+			path = "dependency-management";
 			sourceTree = "<group>";
 		};
 		D21E105524FD283700706314 /* advanced-operators */ = {
