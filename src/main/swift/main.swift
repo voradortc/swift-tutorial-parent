@@ -1,4 +1,4 @@
-/*theBasics(); separator()
+theBasics(); separator()
 basicOperators(); separator()
 basicText(); separator()
 collectionTypes(); separator()
@@ -14,7 +14,7 @@ extensions(); separator()
 protocols(); separator()
 generics(); separator()
 opaqueTypes(); separator()
-advancedOperators(); separator() */
+advancedOperators(); separator()
 dependencies(); separator()
 
 private func separator() {
